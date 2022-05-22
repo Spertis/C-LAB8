@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Spertis
 
 #include <boost/beast/core.hpp>
 #include <boost/beast/http.hpp>

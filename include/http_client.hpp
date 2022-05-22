@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Spertis
 
 #ifndef INCLUDE_HTTP_CLIENT_HPP_
 #define INCLUDE_HTTP_CLIENT_HPP_

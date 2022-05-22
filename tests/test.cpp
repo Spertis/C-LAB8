@@ -1,5 +1,4 @@
-
-// Copyright by Enigma
+// Copyright by Spertis
 
 #include <stdexcept>
 #include <gtest/gtest.h>
